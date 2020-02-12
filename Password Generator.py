@@ -9,7 +9,7 @@ import time
 def generate_pass():
     print("*Maximum lenght is 27")
     # Password length depends on user
-    pass_length = int(input("Enter the lenght of the password you want: "))
+    pass_length = int(input("Enter the length of the password you want: "))
  
     # Menu
     print('Password with:')
